@@ -20,7 +20,7 @@ Healthy
 
 ## CNN Architecture
 
-<img srch = 'images/architecture.PNG >
+<img src = 'images/architecutre.PNG' >
 
 I used ReLU as the activation function, dropout to prevent overfitting and BatchNormalization which, after doing some research,
 turned out to help in enhancing the performance with similar datasets.
@@ -39,7 +39,7 @@ Accuracy is not always a good indicator in these cases but this was just the sta
 
 ## Next Steps
 
-This is just the start and there is a lot more to be done to increase the performance. We can increase the performance by
+This is just the start and there is a lot more to be done to increase the performance. We can increase the performance by:
 
 • Training the model for more than 15 epoch.
 
@@ -51,4 +51,4 @@ This is just the start and there is a lot more to be done to increase the perfor
 
 ## Medium Article
 
-You can check more details about the exact steps through this <a href = ' ' > article <a/>
+You can check more details about the exact steps through this <a href = 'https://medium.com/@MustafaAwny/rsna-pneumonia-classification-efc9f20f92a3' > article <a/>
