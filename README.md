@@ -30,7 +30,7 @@ And finally, I used Adam Optimizer with 0.001 as the learning rate.
 
 ## Results
 
-< img src = 'images/lastEpochs.PNG' >
+<img src = 'images/lastEpochs.PNG' >
 
 I used Google Colab for training. So, I had to train the model for 5 epochs and save the parameters and then, load the parameters 
 and continue for another 5 epochs. The data needed a lot of Ram and Disk and I did that to avoid the crashing problem.
