@@ -6,6 +6,8 @@ Through this project, I will use the RSNA Pneumonia dataset provided by Kaggle t
 
 You can check all the details about the competition <a href = 'https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview' > here </a>.
 
+Also, you can check the visualization section I used from this <a href = 'https://www.kaggle.com/umerfarooq807/exploratory-data-analysis' > kernel </a>
+
 It is important to mention that the competition was mainly about the RSNA Pneumonia detection but, I used the data for the classification purpose.
 
 ## Sample Images
